@@ -2,6 +2,7 @@
 
 
 recursiveDelete = (children) ->
+  return unless children? and children.length?
   for child in children
     if child?.id? and require.cache[child.id]?
       children = require.cache[child.id].children

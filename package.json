@@ -1,7 +1,7 @@
 {
   "name": "atom-package-reloader",
   "description": "a reloader for atom packages",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/paulpflug/",
   "author": {
     "name": "Paul Pflugradt",
