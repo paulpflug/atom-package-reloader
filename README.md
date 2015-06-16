@@ -23,6 +23,7 @@ returns a `Function({pkg,folders})` if `atom.inDevMode()`
 
 
 returns a object with three functions
+
 | function   | Usage                                   |
 | --------: |  :-------------------------------------- |
 | `reload()` | manually reloads your package |
