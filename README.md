@@ -1,4 +1,6 @@
-# atom-package-reloader
+# Deprecated in favor of [autoreload-package-service](https://github.com/paulpflug/autoreload-package-service)
+
+## atom-package-reloader
 
 reloades your atom packages on file change
 
